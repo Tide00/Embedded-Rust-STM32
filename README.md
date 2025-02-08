@@ -12,13 +12,13 @@ build target: thumbv7em-none-eabihf
 
 
 # Build
-'''
+```
 cargo   build 
-'''
+```
 
 # Run 
-'''
+```
 cargo run 
 
 ----The code runs in qemu----
-'''
+```
